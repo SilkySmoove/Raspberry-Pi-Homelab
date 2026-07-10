@@ -1,9 +1,9 @@
 # Raspberry-Pi-Homelab
 My journey building a Raspberry Pi homelab from scratch
 
-## Week 1 - First Boot & Headless SSH Access
+## Day 1 and 2- First Boot & Headless SSH Access
 
-**Date:** July 9, 2026
+**Date:** July 9-10, 2026
 **Goal:** Flash Raspberry Pi OS Lite (64-bit), boot headless, and log in over SSH from a Windows PC.
 
 ### What I did
